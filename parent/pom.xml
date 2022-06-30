@@ -11,6 +11,11 @@
     <modules>
         <module>../runningSum</module>
         <module>../findPivotIndexOfArray</module>
+        <module>../buildQueueWith2Stacks</module>
+        <module>../minStack</module>
+        <module>../isAllCharUniqueInStr</module>
+        <module>../isCharRearrangement</module>
+        <module>../urlEncodeSpaceChar</module>
     </modules>
 
     <properties>
