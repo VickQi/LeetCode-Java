@@ -1,6 +1,6 @@
 package tech.qihaizhi.leetcode;
 
-public class Solution {
+public class StringBuilderSolution {
     public String replaceSpaces(String S, int length) {
         char[] charArr = S.toCharArray();
         StringBuilder result = new StringBuilder();

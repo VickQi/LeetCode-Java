@@ -16,6 +16,15 @@
         <module>../isAllCharUniqueInStr</module>
         <module>../isCharRearrangement</module>
         <module>../urlEncodeSpaceChar</module>
+        <module>../isomorphicString</module>
+        <module>../isSubString</module>
+        <module>../printLinkedListNodeInReverseOrder</module>
+        <module>../nextGreaterNumber</module>
+        <module>../findRepeatNumFromArr</module>
+        <module>../leftRotateString</module>
+        <module>../getNumberOccurTimesInAnOrderedArray</module>
+        <module>../findMissingNumberInAnOrderedArray</module>
+        <module>../copyRandomList</module>
     </modules>
 
     <properties>
